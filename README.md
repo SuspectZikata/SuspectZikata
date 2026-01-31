@@ -1,56 +1,66 @@
-# 💻 Bem-vindo ao meu GitHub! 🚀  
+# 👋 Olá, eu sou o SuspectZikata
 
-<img align="right" height="300em" src="./images/card.png"/>  
+<p align="center">
+  <img src="./images/card.png" height="280"/>
+</p>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> **Olá! Eu sou o SuspectZikata!**  
+<p align="center">
+  <strong>Desenvolvedor Full Stack • Bots • Automações</strong>
+</p>
 
-🔹 **Desenvolvedor de bots para Discord**  
-🔹 **Aprendendo Python e JavaScript**  
-🔹 **Colaborando em projetos para iniciantes**  
-🔹 **Buscando aprimorar meus conhecimentos em bots Discord com JavaScript**  
-🔹 **Estudante de Engenharia de Produção e autodidata em programação**  
-🔹 **Entre em contato comigo: [Discord - SuspectZikata](https://discord.com/invite/RDVQSJUvxb)**  
-
-<br> 
-
----  
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=SuspectZikata&show_icons=true&theme=radical" />
-  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuspectZikata&layout=compact&theme=radical" />
-</div>
+<p align="center">
+  Transformando ideias em <b>bots inteligentes</b>, <b>sites funcionais</b> e <b>sistemas completos</b>.
+</p>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Sobre mim
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,discord,vscode,github,git" />
-</div>
+Sou desenvolvedor com foco em **soluções práticas e automações**, atuando principalmente com:
+
+- 🤖 **Bots para Telegram, WhatsApp e Discord**
+- 🌐 **Criação de sites e sistemas web**
+- 🎨 **Frontend moderno e responsivo**
+- ⚙️ **Backend estruturado e escalável**
+- 🔄 Integrações com APIs, bancos de dados e automações
+
+Sou autodidata, sempre buscando evoluir tecnicamente e entregar projetos bem organizados, funcionais e fáceis de manter.
 
 ---
 
-## 🌎 Conecte-se comigo
+## 🧠 Áreas de atuação
 
-<div align="center">
-  <a href="https://discord.com/invite/RDVQSJUvxb">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+- Bots de atendimento e automação  
+- Sistemas de formulários e gerenciamento  
+- Sites institucionais e plataformas web  
+- Dashboards administrativos  
+- Integrações entre bots, sites e banco de dados  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,react,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="center">
   <a href="https://github.com/SuspectZikata">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
-</div>
+</p>
 
 ---
 
-## 🎉 Quando o código não compila...  
+## ✨ Objetivo
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/LPHXLKEOZw6T6/giphy.gif" width="500px">
-</div>
+Criar soluções que **economizam tempo**, **automatizam processos** e **resolvem problemas reais**, seja através de bots, sistemas web ou integrações inteligentes.
 
 ---
 
-⭐ **Se gostou do meu perfil, não esqueça de deixar um ⭐ nos meus repositórios!** 🚀  
+⭐ Se algum projeto te ajudou, considere deixar uma estrela.  
+Isso faz muita diferença 🚀
